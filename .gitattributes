@@ -1,0 +1,4 @@
+# Zipped TIA Project
+*.zap* binary diff=hex
+# Zipped TIA Library
+*.zal* binary diff=hex
